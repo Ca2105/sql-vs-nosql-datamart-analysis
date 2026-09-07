@@ -1,0 +1,9 @@
+# Ocultar del cálculo de lenguaje todo lo que no sea Python
+* linguist-vendored
+*.md linguist-documentation
+*.json linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+
+# Forzar reconocimiento de Python
+*.py linguist-language=Python
