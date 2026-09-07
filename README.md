@@ -34,5 +34,5 @@ Este proyecto forma parte del Máster en Data Science en **EBIS Business Techsch
 ---
 
 ## 🔗 Enlaces de Interés
-* **Portafolio en Notion:** [Ver caso de estudio documentado](AQUÍ_TU_LINK_DE_NOTION)
-* **LinkedIn:** [Ver publicación del proyecto](AQUÍ_TU_LINK_DEL_POST)
+* **Portafolio en Notion:** [Ver caso de estudio documentado]([AQUÍ_TU_LINK_DE_NOTION](https://app.notion.com/p/Caso-de-Estudio-MySQL-vs-MongoDB-DataMart-Global-3d10b8a57e6080879c9fd70affe39d60?source=copy_link))
+* **LinkedIn:** [Ver publicación del proyecto]([[AQUÍ_TU_LINK_DEL_POST](https://lnkd.in/p/eq4a_3ts)]
